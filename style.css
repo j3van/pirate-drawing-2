@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+#myCanvas {
+  border: 2px solid black;
+}
+
+#pirate {
+  display: none;
+}
+
+#coral {
+  display: none;
+}
+
+#treasure {
+  display: none;
+}
