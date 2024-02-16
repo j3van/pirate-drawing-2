@@ -80,3 +80,11 @@ ctx.beginPath();
 ctx.moveTo(150, 150);
 ctx.lineTo(150, 400);
 ctx.stroke();
+
+//Pirate
+var pirateman = document.getElementById("pirate2");
+ctx.drawImage(pirateman, 150, 130, 150, 100);
+
+//Coral
+var CoralPlant = document.getElementById("coral");
+ctx.drawImage(CoralPlant, 370, 270, 100, 100);
